@@ -96,4 +96,3 @@ end
 
 scraper = Scraper.new
 scraper.scrape
-
